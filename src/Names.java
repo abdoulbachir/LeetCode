@@ -3,5 +3,6 @@ public enum Names {
     MAX,
     MIN,
     AVERAGE,
-    TIME
+    TIME,
+    DATE
 }
