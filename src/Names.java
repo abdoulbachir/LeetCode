@@ -1,4 +1,5 @@
 public enum Names {
     ALEX,
-    MAX
+    MAX,
+    MIN
 }
