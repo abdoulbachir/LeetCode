@@ -2,5 +2,6 @@ public enum Names {
     ALEX,
     MAX,
     MIN,
-    AVERAGE
+    AVERAGE,
+    TIME
 }
