@@ -6,5 +6,6 @@ public enum Names {
     TIME,
     DATE,
     YEAR,
-    MONTH
+    MONTH,
+    CENTURY
 }
