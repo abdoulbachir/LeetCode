@@ -5,5 +5,6 @@ public enum Names {
     AVERAGE,
     TIME,
     DATE,
-    YEAR
+    YEAR,
+    MONTH
 }
